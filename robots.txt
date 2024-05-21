@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://breakall87.github.io/gustolab/sitemap.xml
